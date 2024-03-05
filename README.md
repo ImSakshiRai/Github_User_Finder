@@ -12,5 +12,5 @@ GitHub Finder makes it super easy to find any random GitHub user and see their w
 
 
  
-## Explore the live version [Here]() 
+## Explore the live version [Here](https://imsakshirai.github.io/Github_User_Finder/) 
 
